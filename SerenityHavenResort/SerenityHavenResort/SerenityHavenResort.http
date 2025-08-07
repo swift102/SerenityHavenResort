@@ -1,0 +1,6 @@
+@SerenityHavenResort_HostAddress = http://localhost:5122
+
+GET {{SerenityHavenResort_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

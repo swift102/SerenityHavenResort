@@ -1,0 +1,524 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f7f8fa;
+}
+
+/* General Styles */
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #333;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer Section */
+footer {
+    background-color: #f3f4f6;
+    padding: 2rem 0;
+  
+    .container {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2rem;
+  
+      @media (min-width: 768px) {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+  
+    h3 {
+      font-size: 1.125rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+    }
+  
+    p {
+      font-size: 0.875rem;
+      margin-top: 0.5rem;
+      line-height: 1.5;
+    }
+  
+    ul {
+      list-style: none;
+      padding: 0;
+  
+      li {
+        margin-bottom: 0.5rem;
+        font-size: 0.875rem;
+      }
+  
+      a {
+        text-decoration: none;
+        color: #4b5563;
+        transition: color 0.3s;
+  
+        &:hover {
+          color: #1f2937;
+        }
+      }
+    }
+  
+    .flex {
+      display: flex;
+      gap: 0.75rem;
+  
+      a {
+        color: #4b5563;
+        font-size: 1rem;
+        transition: color 0.3s;
+  
+        &:hover {
+          color: #1f2937;
+        }
+  
+        i {
+          font-size: 1rem;
+        }
+      }
+    }
+  
+    .text-center {
+      margin-top: 2rem;
+      font-size: 0.875rem;
+      color: #6b7280;
+      text-align: center;
+    }
+  }
+ /* Testimonials Section */
+.testimonials {
+  padding: 50px 0;
+  background: linear-gradient(135deg, #ffffff, #f7f8fa);
+  text-align: center;
+  margin-bottom: 0; /* Ensure no extra bottom margin */
+  padding-bottom: 0; /* Removed extra padding at the bottom */
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 30px;
+  }
+
+  .testimonial-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .testimonial {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    flex: 1 1 300px;
+    max-width: 320px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    img {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+
+    .name {
+      font-size: 1.1rem;
+      font-weight: bold;
+      margin: 10px 0;
+    }
+
+    .rating {
+      color: #fbc02d;
+      font-size: 1.2rem;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 0.9rem;
+      color: #555;
+      line-height: 1.5;
+    }
+  }
+}
+
+/* SERVICES */
+.services-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three items per row */
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 0; /* Ensure no top margin */
+  padding-top: 0; /* Removed extra padding at the top */
+}
+
+.service-item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.service-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.service-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.service-description {
+  font-size: 1rem;
+  color: #555;
+}
+
+
+/*GALLERY SECTION*/
+
+.gallery-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 2rem;
+    margin: 2rem 0;
+  }
+  h3 {
+    font-size: 2.5rem; /* Increase size for emphasis */
+    font-weight: 700; /* Bold for prominence */
+    color: #2c3e50; /* Elegant dark shade */
+    text-align: center; /* Center align */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    margin-bottom: 1.5rem; /* Add more spacing below */
+    font-family: 'Playfair Display', serif; /* Use a sophisticated font */
+  }
+  
+  
+  .gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .gallery-item:hover {
+    transform: translateY(-0.5rem);
+  }
+  
+  .gallery-item img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .item-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.6); /* Darker background for better contrast */
+    color: #fff; /* White text for visibility */
+    padding: 1.5rem;
+    transition: transform 0.3s ease-in-out, background 0.3s ease;
+    border-bottom-left-radius: 0.5rem; /* Match border-radius */
+    border-bottom-right-radius: 0.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  .gallery-item:hover .item-content {
+    transform: translateY(0);
+    background: rgba(0, 0, 0, 0.8); /* Slightly darker on hover for emphasis */
+  }
+  
+  .item-content h3 {
+    margin-top: 0;
+    font-size: 1.5rem; /* Slightly increase the size */
+    font-weight: bold;
+    color: #ffffff; /* Set to white for better contrast */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Add a stronger shadow */
+    font-family: 'Playfair Display', serif; /* Optional: Use an elegant font */
+  }
+  .item-content p {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+  }
+  
+  .item-content p {
+    margin-bottom: 0;
+    font-size: 1rem;
+    line-height: 1.6; /* Improve readability */
+  }
+  
+
+
+/* Navbar Styles */
+header {
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 1.5rem;
+    }
+    h1 {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #1d4ed8;
+    }
+    nav ul {
+      display: flex;
+      gap: 1.5rem;
+      li a {
+        font-size: 1rem;
+        color: #374151;
+        &:hover {
+          color: #2563eb;
+        }
+      }
+    }
+    .register {
+      a {
+        margin-right: 1rem;
+        color: #2563eb;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+      .btn-register {
+        background-color: #2563eb;
+        color: #ffffff;
+        padding: 0.5rem 1rem;
+        border-radius: 0.5rem;
+        &:hover {
+          background-color: #1e40af;
+        }
+      }
+    }
+  }
+  
+ /* Hero Section */
+section {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  
+    .bg-black {
+        background-color: rgba(0, 0, 0, 0.6); /* Increase opacity */
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .text-center h2 {
+        font-size: 3rem; /* Increased font size */
+        font-weight: 700;
+        color: #ffffff; /* Ensure strong contrast */
+        margin-bottom: 1.5rem;
+      
+        @media (min-width: 768px) {
+          font-size: 4rem;
+        }
+      }
+      
+      .text-center p {
+        font-size: 1.25rem; /* Larger font for clarity */
+        color: #d1d5db; /* Soft white for secondary text */
+        margin-bottom: 2rem;
+      }
+      
+      .text-center a {
+        background-color: #2563eb;
+        color: #ffffff;
+        padding: 0.75rem 1.5rem;
+        border-radius: 0.5rem;
+        font-size: 1rem;
+        font-weight: 500;
+        transition: background-color 0.3s;
+      
+        &:hover {
+          background-color: #1e40af;
+        }
+      }
+  }
+  
+  
+ /* Section 2 */
+/* Scoped styles for the "Elevate Your Escape" section */
+.elevate-section {
+    padding: 4rem 1.5rem;
+    background-color: #f3f4f6;
+  
+    .container {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      position: relative;
+  
+      @media (min-width: 768px) {
+        grid-template-columns: repeat(2, 1fr);
+        align-items: center;
+      }
+  
+      .relative {
+        position: relative;
+  
+        .absolute {
+          position: absolute;
+          top: 1.5rem;
+          left: 1.5rem;
+          width: 80%;
+          height: 80%;
+          background-color: #bfdbfe;
+          border-radius: 1.5rem;
+          z-index: -1;
+        }
+  
+        img {
+          border-radius: 1rem;
+          box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+          width: 100%;
+        }
+      }
+  
+      .text-content {
+        h3 {
+          font-size: 2rem;
+          font-weight: bold;
+          margin-bottom: 1rem;
+        }
+  
+        p {
+          font-size: 1.125rem;
+          margin-bottom: 1rem;
+        }
+  
+        ul {
+          margin-bottom: 1.5rem;
+          padding-left: 1.5rem;
+  
+          li {
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+          }
+        }
+  
+        a {
+          background-color: #2563eb;
+          color: #ffffff;
+          padding: 0.75rem 1.5rem;
+          border-radius: 0.5rem;
+          font-size: 1rem;
+          text-decoration: none;
+  
+          &:hover {
+            background-color: #1e40af;
+          }
+        }
+      }
+    }
+  }
+  
+  
+  /* Gallery Section */
+  .gallery-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 2rem;
+    margin: 2rem 0;
+  }
+  
+  .gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .gallery-item:hover {
+    transform: translateY(-0.5rem);
+  }
+  
+  .gallery-item img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .item-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 1rem;
+    transform: translateY(100%);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .gallery-item:hover .item-content {
+    transform: translateY(0);
+  }
+  
+  .item-content h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .item-content p {
+    margin: 0.5rem 0 0;
+    font-size: 1rem;
+    color: #555;
+  }
+  .bg-cover {
+    background-size: cover;
+  }
+  .bg-center {
+    background-position: center;
+  }
+  .h-screen {
+    height: 100vh;
+  }
+
+
+
+  
