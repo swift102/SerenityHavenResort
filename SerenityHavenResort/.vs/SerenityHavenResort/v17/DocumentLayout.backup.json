@@ -1,10 +1,186 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WESLEY\\Downloads\\SerenityHavenResort\\",
+  "WorkspaceRootPath": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\downloads\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\serenityhavenresort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\roomsdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\roomsdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\amenitiesdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\amenitiesdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\customernote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\customernote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\amenities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\amenities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\verificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\verificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\usercustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\usercustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\imagedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\imagedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\customerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\customerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\viewmodels\\bookingsdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\viewmodels\\bookingsdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\services\\rabbitmqeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\services\\rabbitmqeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\services\\pricingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\services\\pricingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\services\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\services\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\services\\amenityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\services\\amenityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\smsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\smsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\roomamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\roomamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\customerpreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\customerpreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|c:\\users\\wesley\\documents\\github\\serenityhavenresort\\serenityhavenresort\\serenityhavenresort\\models\\auditloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212A3862-F402-43B0-9581-184BBF39A7C8}|SerenityHavenResort\\SerenityHavenResort.csproj|solutionrelative:serenityhavenresort\\models\\auditloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +190,294 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerNote.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\CustomerNote.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\CustomerNote.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\CustomerNote.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\CustomerNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:26:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:27:36.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\IRepository.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\IRepository.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:27:53.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\RoomService.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Services\\RoomService.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAArwG0BAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:48:03.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomsDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\RoomsDTOs.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\RoomsDTOs.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\RoomsDTOs.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\RoomsDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:51:06.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AmenitiesDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\AmenitiesDTOs.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\AmenitiesDTOs.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\AmenitiesDTOs.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\AmenitiesDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:49:49.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\BookingService.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:43:31.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Amenities.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Amenities.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\Amenities.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Amenities.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\Amenities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:25:18.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\VerificationDto.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\VerificationDto.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\VerificationDto.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\VerificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:52:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\UserProfileDto.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\UserProfileDto.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:51:58.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\UserDto.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\UserDto.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\UserDto.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:51:47.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\UserCustomerDto.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\UserCustomerDto.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\UserCustomerDto.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\UserCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:51:36.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPassword.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\ResetPassword.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\ResetPassword.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\ResetPassword.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\ResetPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:50:56.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImageDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\ImageDTOs.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\ImageDTOs.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\ImageDTOs.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\ImageDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:50:40.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\ForgetPasswordDto.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\ForgetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\ForgetPasswordDto.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\ForgetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:50:29.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\CustomerDTOs.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\CustomerDTOs.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\CustomerDTOs.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\CustomerDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:50:18.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingsDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\BookingsDTOs.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\ViewModels\\BookingsDTOs.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\ViewModels\\BookingsDTOs.cs",
+              "RelativeToolTip": "SerenityHavenResort\\ViewModels\\BookingsDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:50:00.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\TokenService.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:48:34.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RabbitMqEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\RabbitMqEventPublisher.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Services\\RabbitMqEventPublisher.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\RabbitMqEventPublisher.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Services\\RabbitMqEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:47:53.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PricingService.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\PricingService.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Services\\PricingService.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\PricingService.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Services\\PricingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:47:37.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:47:17.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\EmailSender.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:46:42.816Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -30,15 +492,301 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SerenityHavenResort",
-              "DocumentMoniker": "C:\\Users\\WESLEY\\Downloads\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort.csproj",
-              "RelativeDocumentMoniker": "SerenityHavenResort\\SerenityHavenResort.csproj",
-              "ToolTip": "C:\\Users\\WESLEY\\Downloads\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort.csproj",
-              "RelativeToolTip": "SerenityHavenResort\\SerenityHavenResort.csproj",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-07T15:36:07.585Z",
+              "DocumentIndex": 17,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\CustomerService.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAADgv0sBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:44:05.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Services\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\DatabaseSeeder.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Services\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:46:22.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AmenityService.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\AmenityService.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Services\\AmenityService.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Services\\AmenityService.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Services\\AmenityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:43:12.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:40:29.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:34:03.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Booking.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\Booking.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:24:04.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\PaymentService.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\PaymentService.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:28:32.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\UserProfile.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:31:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\User.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\User.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:31:32.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\SmtpSettings.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\SmtpSettings.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\SmtpSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:31:15.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SMSMessage.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\SMSMessage.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\SMSMessage.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\SMSMessage.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\SMSMessage.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:31:05.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\SeedData.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:30:44.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Repository.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:29:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoomAmenity.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\RoomAmenity.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\RoomAmenity.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\RoomAmenity.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\RoomAmenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:30:13.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Room.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:29:58.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:29:15.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Payment.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:28:23.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Image.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:27:45.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Employee.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:26:58.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\EmailMessage.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\EmailMessage.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\EmailMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:26:52.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CustomerPreference.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\CustomerPreference.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\CustomerPreference.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\CustomerPreference.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\CustomerPreference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:26:36.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\Customer.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:26:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuditLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\AuditLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "SerenityHavenResort\\Models\\AuditLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\WESLEY\\Documents\\GitHub\\SerenityHavenResort\\SerenityHavenResort\\SerenityHavenResort\\Models\\AuditLoggingMiddleware.cs",
+              "RelativeToolTip": "SerenityHavenResort\\Models\\AuditLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:25:37.561Z",
               "EditorCaption": ""
             }
           ]
